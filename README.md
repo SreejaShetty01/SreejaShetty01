@@ -36,7 +36,7 @@ Python • JavaScript • Tensorflow • NumPy • Pandas •  PyTorch • FastA
 - Local-first AI tooling
 - Backend systems for AI applications
 - Developer-focused automation
-- 
+  
 
 ## Philosophy
 
