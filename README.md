@@ -4,7 +4,6 @@ Data Science Student focused on intelligent systems, AI workflows and developer-
 
 Building practical software with interests in LLM applications, RAG systems, automation and modern AI infrastructure.
 
-LinkedIn · GitHub · Instagram
 
 ## Projects
 
