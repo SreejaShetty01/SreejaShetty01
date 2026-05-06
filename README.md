@@ -21,11 +21,13 @@ RAG-based AI workflow using Ollama and local LLM pipelines for contextual retrie
 Focused on retrieval orchestration, local inference workflows and developer-oriented AI tooling.
 
 
+
 ## Tech
 
-python,javascript,tensorflow,pytorch,fastapi,django,git,github
+
 
 Python • JavaScript • Tensorflow • NumPy • Pandas •  PyTorch • FastAPI • django • SQL • Scikit-learn • OpenCV • Git • Github • RAG • Ollama • MCP • AI Agents • Prompt Engineering • Hugging Face
+
 
 ## Current Focus
 
@@ -34,6 +36,7 @@ Python • JavaScript • Tensorflow • NumPy • Pandas •  PyTorch • FastA
 - Local-first AI tooling
 - Backend systems for AI applications
 - Developer-focused automation
+- 
 
 ## Philosophy
 
