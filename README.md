@@ -1,4 +1,4 @@
-# Sreeja Sathish
+# Sreeja Shetty
 
 Data Science Student focused on intelligent systems, AI workflows and developer-focused tooling.
 
