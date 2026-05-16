@@ -6,7 +6,7 @@ Building practical software with interests in LLM applications, RAG systems, aut
 
 ## Projects
 
-### [GenArch](https://github.com/Sreeja Shetty01/GenArch) — AI-Powered Deterministic Text-to-Architecture Generation Pipeline
+### [GenArch](https://github.com/SreejaShetty01/GenArch) — AI-Powered Deterministic Text-to-Architecture Generation Pipeline
 A deterministic system design compiler that programmatically maps unstructured natural language technical specifications into strict, schema-enforced UML diagrams and design primitives. 
 - Designed a custom contextual parser layer to eliminate generative layout drift, canvas overflow, and syntax crashes.
 - Implemented a decoupled backend using Python and the Django framework integrated with a GraphQL query layer for structured system interactions.
