@@ -19,9 +19,8 @@ An intelligent multi-tenant price prediction and algorithmic comparison ecosyste
 - Executes real-time cost-benefit threshold analysis to dynamically score deals and recommend optimal purchasing windows.
 
 ### [Ongoing Project] Local-First Retrieval Workflow for AI Systems
-A local-first RAG (Retrieval-Augmented Generation) pipeline engineered for contextual data parsing and intelligent response generation.
-- Built utilizing Ollama and local LLM pipelines to execute isolated, zero-dependency inference tasks on local machines.
-- Focused on embedding retrieval orchestration, vector context mapping, and building developer-oriented AI developer tooling.
+-Designing a modular Retrieval-Augmented Generation (RAG) platform with adaptive document analysis, semantic chunking, vector embeddings, metadata-aware indexing and intelligent retrieval across diverse document formats.
+-Building a scalable AI pipeline using Python, FastAPI, Qdrant, LangChain, Tree-sitter and modern LLM APIs to enable context-aware knowledge retrieval and developer-focused AI workflows.
 
 ## Tech
 
