@@ -18,7 +18,7 @@ An intelligent multi-tenant price prediction and algorithmic comparison ecosyste
 - Integrates optimized Linear Regression models using Scikit-learn, Pandas, and NumPy to estimate continuous value cost trajectories and calculate trend slopes.
 - Executes real-time cost-benefit threshold analysis to dynamically score deals and recommend optimal purchasing windows.
 
-### [Ongoing Project] Local-First Retrieval Workflow for AI Systems
+### [Ongoing Project] OmniRAG
 -Designing a modular Retrieval-Augmented Generation (RAG) platform with adaptive document analysis, semantic chunking, vector embeddings, metadata-aware indexing and intelligent retrieval across diverse document formats.
 -Building a scalable AI pipeline using Python, FastAPI, Qdrant, LangChain, Tree-sitter and modern LLM APIs to enable context-aware knowledge retrieval and developer-focused AI workflows.
 
