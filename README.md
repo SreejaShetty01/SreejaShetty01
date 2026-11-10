@@ -34,11 +34,6 @@ Python • JavaScript • TensorFlow • NumPy • Pandas • PyTorch • FastAP
 - Backend systems for AI applications
 - Developer-focused automation
 
-## Philosophy
-
-Interested in building AI systems that are practical, efficient, and genuinely useful.
-
-Focused on learning in public, shipping consistently, and building real-world projects over collecting credentials.
 
 ---
 
