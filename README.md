@@ -1,7 +1,5 @@
 # Sreeja Shetty
 
-Data Science Student focused on intelligent systems, AI workflows, and developer-focused tooling.
-
 Building practical software with interests in LLM applications, RAG systems, automation and modern AI infrastructure.
 
 ## Projects
